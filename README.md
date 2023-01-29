@@ -1,2 +1,2 @@
-# qonita-ghifari
-see the prototype <a href="http://undanganmanten.my.id/qonita-ghifari" target="_blank">here</a>
+# annur-gallant
+see the prototype <a href="http://undanganmanten.my.id/annur-gallant" target="_blank">here</a>

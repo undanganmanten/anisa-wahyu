@@ -363,7 +363,7 @@ img{
 }
 
 .relative-arrum .background{
-  margin-top: -40px;
+  margin-top: -140px;
   z-index: 2 !important;
 
 }
@@ -434,6 +434,7 @@ img{
 #counting{
   width: 100vw;
   height: max-content;
+  margin-top: -50px;
 }
 
 .count-down{
@@ -576,7 +577,7 @@ img{
 .save-the-date .relative .block .akad-resepsi .resepsi p{
   font-family: 'orator';
   color: #000;
-  font-size: 12px;
+  font-size: 14px;
   font-weight: bold;
 }
 
@@ -623,6 +624,7 @@ img{
 }
 
 .protokol img{
+  margin-top: 50px;
   width: 80%;
 }
 /* 
@@ -994,15 +996,22 @@ img{
   text-align: center;
   background-color: transparent;
   padding: 90px 0 60px 0;
+  background: url("../asset/image/bg-footer.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  
 }
 
 .footer p{
   color: black;
+  padding-bottom: 20px;
 }
 
 .footer a{
   color: black;
   text-decoration: none;
+  padding-bottom: 20px;
 }
 
 /* @media(max-width: 768px){
