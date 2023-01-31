@@ -246,6 +246,16 @@ body{
   font-family: 'Josefin Sans', sans-serif;
 }
 
+.title .nama-undangan{
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.title .nama-undangan h3{
+  margin: 5px;
+}
+
 .title h3{
   color: white;
   font-family: 'Playfair Display', serif;
@@ -275,6 +285,10 @@ body{
 
 title a:hover{
   background: rgb(238, 238, 238);
+}
+
+.title .p, .title .nama-undangan{
+  margin-top: 0px;
 }
 
 img{
